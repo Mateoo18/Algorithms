@@ -1,4 +1,4 @@
-In this repository I gather my algorithms using in competitive programming.The repo contains:
+In this repository I gather my algorithms using in competitive programming.The repo contains:	
 *Dijkstra algorithm-searching the fastest path in directed graph.
 *Hash algo-can be used to hash some words and fasten string problems i CP.
 *Lazy_propagation-the fastest algorithm to do an update and query on the sections.
